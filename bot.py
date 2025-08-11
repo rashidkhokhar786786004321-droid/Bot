@@ -5,7 +5,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # === CONFIG ===
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "7531864759:AAF-SfvbWcjHPxFXGHpYTCk8svh4aXOBim4"
 API_URL = "http://musa699.serv00.net/public%20api.php?number="
 USERS_FILE = "users.json"
 
